@@ -1,5 +1,10 @@
 {
-  "users": {},
+  "users": {
+    "ADMIN": {
+      "username": "ADMIN",
+      "createdAt": 1764706839985
+    }
+  },
   "sessions": {},
   "payments": []
 }
