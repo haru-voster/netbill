@@ -114,7 +114,6 @@
     });
   }
 
-  // Auto-load codes on dashboard
   if (window.location.pathname.endsWith('dashboard.html')) {
     loadCodes();
   }
