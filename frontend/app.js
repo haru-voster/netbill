@@ -113,7 +113,7 @@
       ul.appendChild(li);
     });
   }
-
+// dashboard page load
   if (window.location.pathname.endsWith('dashboard.html')) {
     loadCodes();
   }
